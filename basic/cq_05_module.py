@@ -1,0 +1,3 @@
+import cq_04_multiplication_table
+
+cq_04_multiplication_table.multiplication_table()
